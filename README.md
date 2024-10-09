@@ -1,5 +1,7 @@
 # AutomaDay
 
+(Projeto pessoal de automação de materiais de estudo, criado com Python e Selenium.)
+
 #Inicia o navegador e acessa a página de login do site da graduação.
 ![acao1](https://github.com/user-attachments/assets/970dd542-3cc7-423b-988d-b1b7db3c1239)
 
